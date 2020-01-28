@@ -1,1 +1,1 @@
-# fast_image_recognition
+Source code for fast image recognition. Please refer to another [repsitory for C++ source code](https://github.com/HSE-asavchenko/HSE_FaceRec/tree/master/src/recognition_testing)
